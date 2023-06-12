@@ -1,5 +1,5 @@
 # Diabetic-Retinopathy
-DIAGNOSIS OF DIABETIC RETINOPATHY FROM FUNDUS IMAGES USING SVM, KNN, and attention-based CNN models with GradCam score for interpretability
+A Django application developped for classification of a diabetes complication that affects eyes
 
 Detecting diabetic retinopathy using a Keras model involves leveraging the power of deep learning to analyze retinal images and identify signs of the disease. Keras is a popular high-level deep learning framework that provides an intuitive and user-friendly interface for building and training neural networks. Here's an overview of how you can implement a diabetic retinopathy detection system using Keras:
 
